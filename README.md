@@ -50,12 +50,7 @@ Currently pursuing **MCA at Lovely Professional University** with a strong acade
 
 ---
 
-## 📊 GitHub Stats
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkumar9887&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar9887&layout=compact&theme=radical)  
-
----
 
 ## 📫 Connect with Me
 - 📧 Email: **vk1062480@gmail.com**  
